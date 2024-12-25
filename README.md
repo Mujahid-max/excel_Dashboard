@@ -34,3 +34,4 @@ Average Unit Price: $143,168.37 🛍️
 
 Contributors 🙌
 Mohammed Mujahaid Raza
+![Dashboard Preview](https://github.com/Mujahid-max/excel_Dashboard/blob/main/Screenshot%202024-12-25%20174839.png?raw=true)
