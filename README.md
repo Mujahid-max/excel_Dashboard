@@ -1,4 +1,7 @@
 # United States Sales Dashboard 📊🇺🇸
+Contributors 🙌
+Mohammed Mujahaid Raza
+![Dashboard Preview](https://github.com/Mujahid-max/excel_Dashboard/blob/main/Screenshot%202024-12-25%20174839.png?raw=true)
 
 ## Overview 🌟
 This project showcases an interactive Excel dashboard analyzing sales performance across the United States. The dashboard provides insights into profitability, shipment modes, customer segments, and top-performing cities and states.
@@ -32,6 +35,4 @@ Average Unit Price: $143,168.37 🛍️
 - Regular Air ✈️: $507
 - Express Air 🛫: $26
 
-Contributors 🙌
-Mohammed Mujahaid Raza
-![Dashboard Preview](https://github.com/Mujahid-max/excel_Dashboard/blob/main/Screenshot%202024-12-25%20174839.png?raw=true)
+
